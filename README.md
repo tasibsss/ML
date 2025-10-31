@@ -44,9 +44,3 @@ The goal of this project is to:
 ## 📈 Results
 The notebook compares model performance using metrics such as accuracy and precision to identify the best-performing algorithm for the dataset.
 
----
-
-## 🚀 How to Run
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/ml-classification-pipeline.git
