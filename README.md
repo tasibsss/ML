@@ -2,7 +2,7 @@
 
 This project demonstrates a complete **machine learning workflow** — from data preprocessing to model evaluation — using multiple classifiers to compare their performance.
 
----
+
 
 ## 📘 Project Overview
 The goal of this project is to:
@@ -11,14 +11,13 @@ The goal of this project is to:
 - Train and evaluate several ML models
 - Compare their accuracy and performance metrics
 
----
 
 ## 🧩 Models Used
 - Gaussian Naive Bayes (`GaussianNB`)
 - Decision Tree Classifier (`DecisionTreeClassifier`)
 - K-Nearest Neighbors (`KNeighborsClassifier`)
 
----
+
 
 ## 🛠️ Technologies & Libraries
 - Python 3.x  
@@ -28,7 +27,7 @@ The goal of this project is to:
 - Matplotlib  
 - Seaborn  
 
----
+
 
 ## ⚙️ Steps Performed
 1. **Dataset Loading & Exploration**
