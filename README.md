@@ -3,7 +3,6 @@
 This project demonstrates a complete **machine learning workflow** — from data preprocessing to model evaluation — using multiple classifiers to compare their performance.
 
 
-
 ## 📘 Project Overview
 The goal of this project is to:
 - Clean and preprocess the dataset (handle null values, encode categorical features, scale features)
